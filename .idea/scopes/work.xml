@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="work" pattern="!file[cli-chat]:.idea/*&amp;&amp;!file[cli-chat]:.idea//*&amp;&amp;!file:client/bun.lockb&amp;&amp;!file:client/.gitignore&amp;&amp;!file:client/README.md" />
+</component>
